@@ -1,0 +1,8 @@
+torch==1.8.1
+torchvision==0.9.1
+mlconfig
+mlflow
+Pillow==8.4.0
+opencv-python
+numpy==1.19.5
+imgaug==0.4.0
